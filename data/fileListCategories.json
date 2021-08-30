@@ -1,0 +1,38 @@
+[
+  {
+    "id": 0,
+    "name": "Тип документов 1",
+    "cnt": 2,
+    "accept": [
+      "image/png",
+      "image/jpeg",
+      "image/gif",
+      "image/bmp",
+      "application/pdf"
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Тип документов 2",
+    "cnt": 5,
+    "accept": [
+      "image/png",
+      "image/jpeg",
+      "image/gif",
+      "image/bmp",
+      "application/pdf"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Тип документов 3",
+    "cnt": 10,
+    "accept": [
+      "image/png",
+      "image/jpeg",
+      "image/gif",
+      "image/bmp",
+      "application/pdf"
+    ]
+  }
+]
